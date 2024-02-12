@@ -38,3 +38,4 @@ __pycache__/
 
 .mockgen-bin
 .golangci-bin
+.gitpod.yml
